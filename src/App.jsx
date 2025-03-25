@@ -4,7 +4,7 @@ import FootballPage from './pages/football-page/FootballPage';
 import BasketballPage from './pages/basketball-page/BasketballPage';
 import PrivacyPolicyPage from './pages/privacity-terms/Privacity';
 import SalesTermsPage from './pages/selling-conditions/Conditions';
-import NewsXML from '../../myproject/src/components/news/News';  
+import NewsXML from "../public/news.xml";
 import "./services/i18n";
 
 function App() {
