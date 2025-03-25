@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+  <channel>
+    <title>News in Sport Spaces</title>
+    <link>http://localhost:5175/</link>
+    <description>News that I find interesting</description>
+
+    <item>
+      <title>Nuevas innovaciones en inteligencia artificial revolucionan la industria</title>
+      <link>http://localhost:5175/#item-1</link>
+      <description>Investigadores han desarrollado una IA avanzada capaz de aprender tareas complejas de manera autónoma. Esta tecnología promete cambiar el futuro del trabajo, la educación y los servicios de salud.</description>
+    </item>
+
+    <item>
+      <title>La selección de fútbol avanza a la final del campeonato mundial</title>
+      <link>http://localhost:5175/#item-2</link>
+      <description>En un emocionante partido, la selección nacional venció a su oponente en la tanda de penales y logró clasificarse a la final del campeonato mundial por primera vez en su historia.</description>
+    </item>
+
+    <item>
+      <title>Descubrimiento en Marte sugiere la posible existencia de agua líquida</title>
+      <link>http://localhost:5175/#item-3</link>
+      <description>La NASA ha detectado nuevas señales que sugieren la presencia de agua líquida en Marte, lo que aumenta las expectativas sobre la posibilidad de encontrar vida en el planeta rojo.</description>
+    </item>
+
+    <item>
+      <title>Nueva ley de protección de datos entra en vigor en la Unión Europea</title>
+      <link>http://localhost:5175/#item-4</link>
+      <description>La nueva ley sobre protección de datos impone regulaciones más estrictas a las empresas tecnológicas en cuanto al manejo de la información personal de sus usuarios, con multas de hasta el 4% de sus ingresos globales.</description>
+    </item>
+
+    <item>
+      <title>Elon Musk anuncia fecha para el lanzamiento del cohete más potente jamás construido</title>
+      <link>http://localhost:5175/#item-5</link>
+      <description>SpaceX ha anunciado el lanzamiento del Starship, el cohete más grande y potente construido hasta la fecha, que pretende llevar a cabo misiones a la Luna y Marte en los próximos años.</description>
+    </item>
+
+    <item>
+      <title>El cambio climático podría afectar la producción de alimentos en las próximas décadas</title>
+      <link>http://localhost:5175/#item-6</link>
+      <description>Científicos advierten que los cambios en el clima, como el aumento de la temperatura y la alteración en los patrones de lluvia, podrían afectar gravemente la producción de alimentos, generando posibles crisis alimentarias globales.</description>
+    </item>
+
+  </channel>
+
+</rss>

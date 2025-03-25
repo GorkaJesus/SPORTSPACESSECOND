@@ -1,0 +1,84 @@
+/* Footer */
+.footer {
+    background-color: #141414;
+    color: #fff;
+    padding: 40px 0;
+    text-align: center;
+    box-shadow: 0 -4px 15px rgba(0, 0, 0, 0.7);
+    position: relative;
+    width: 100%;
+    z-index: 1000;
+    border-radius: 15px 15px 0 0;
+    margin-top: 50px;
+}
+
+/* Footer container */
+.footer-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 90%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+    flex-wrap: wrap;
+}
+
+/* Footer text */
+.footer-text {
+    font-size: 1rem;
+}
+
+.footer-text p a {
+    color: #fff;
+    margin: 0 5px;
+    text-decoration: none;
+}
+
+.footer-text p a:hover {
+    color: #e50914;
+}
+
+/* Icon links */
+.icons a {
+    color: #fff;
+    font-size: 26px;
+    margin-left: 15px;
+    transition: color 0.3s ease;
+}
+
+.icons a:hover {
+    color: #e50914;
+}
+
+/* Projects Links */
+.footer-projects p {
+    margin-top: 10px;
+    font-size: 1rem;
+}
+
+.footer-projects p a {
+    color: #fff;
+    margin: 0 5px;
+    text-decoration: none;
+}
+
+.footer-projects p a:hover {
+    color: #e50914;
+}
+
+/* Responsive adjustments */
+@media only screen and (max-width: 600px) {
+    .footer-container {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .icons {
+        margin-top: 10px;
+    }
+
+    .footer-projects {
+        margin-top: 15px;
+    }
+}

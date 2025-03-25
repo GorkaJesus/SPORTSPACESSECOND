@@ -1,0 +1,14 @@
+.green-button {
+    background-color: yellow;
+    border: 1px solid black;
+    padding: 10px 20px;
+    margin: 10px;
+    cursor: pointer;
+    display: inline-block; 
+    width: auto;
+  }
+  
+  .green-button:hover {
+    background-color: lightgreen;
+  }
+  

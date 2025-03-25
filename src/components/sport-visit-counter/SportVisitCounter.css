@@ -1,0 +1,85 @@
+.vote-container {
+    background-color: rgba(255, 255, 255, 0.9);
+    padding: 10px;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.1);
+    margin-top: 15px;
+}
+
+.vote-title {
+    font-size: 1.8rem;
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+.vote-options {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+    margin-bottom: 30px;
+}
+
+.vote-button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 15px 20px;
+    font-size: 1.1rem;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.vote-button:hover {
+    background-color: #45a049;
+}
+
+.vote-results {
+    text-align: left;
+    margin-top: 20px;
+}
+
+.vote-results p {
+    font-size: 1.1rem;
+    color: #333;
+    margin-bottom: 5px;
+}
+
+.vote-bar {
+    height: 20px;
+    background-color: #4CAF50;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    transition: width 0.3s ease;
+}
+
+.vote-bar.football-bar {
+    background-color: #1e90ff;
+}
+
+.vote-bar.basketball-bar {
+    background-color: #ff6347;
+}
+
+.vote-bar.tennis-bar {
+    background-color: #32cd32;
+}
+
+.vote-bar.gym-bar {
+    background-color: #ff1493;
+}
+
+.vote-bar.running-bar {
+    background-color: #ffa500;
+}
+
+.vote-bar.swimming-bar {
+    background-color: #00ced1;
+}
+
+.vote-bar.cycling-bar {
+    background-color: #ffd700;
+}

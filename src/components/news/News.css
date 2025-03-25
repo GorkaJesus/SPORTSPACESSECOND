@@ -1,0 +1,16 @@
+.rss-icon-small {
+    width: 25px;
+    height: 25px;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.rss-icon-small:focus,
+.rss-icon-small:active {
+    outline: none;
+    box-shadow: 0 0 10px rgba(255, 102, 0, 0.8);
+    transform: scale(1.1);
+}
+
+.news-list {
+    display: none;
+}

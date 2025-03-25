@@ -1,0 +1,190 @@
+/* General styles */
+.sales-container {
+  font-family: 'Poppins', sans-serif;
+  background-color: #111;
+  color: white;
+  position: relative;
+  padding: 0;
+  margin: 0;
+}
+
+/* Hero section */
+.sales-hero-section {
+  position: relative;
+  text-align: center;
+  color: white;
+  height: 60vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Background image */
+.sales-hero-image {
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+
+/* Dark overlay */
+.sales-hero-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.7);
+  z-index: 1;
+}
+
+/* Text styles for hero section */
+.sales-hero-title, .sales-hero-subtitle {
+  position: relative;
+  z-index: 2;
+  text-shadow: 3px 3px 10px rgba(0, 0, 0, 0.7);
+}
+
+.sales-hero-title {
+  font-size: 2.5rem;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.sales-hero-subtitle {
+  font-size: 1.2rem;
+  margin-top: 10px;
+}
+
+/* Sales terms section */
+.sales-terms-section {
+  padding: 40px 20px;
+  max-width: 1000px;
+  margin: 0 auto;
+  text-align: left;
+  background-color: #222;
+  border-radius: 8px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);
+}
+
+/* Sales terms section title */
+.sales-terms-title {
+  font-size: 2rem;
+  font-weight: bold;
+  color: white;
+  margin-bottom: 20px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  position: relative;
+}
+
+/* Sales terms text */
+.sales-terms-text {
+  font-size: 1.1rem;
+  line-height: 1.7;
+  color: #ddd;
+  margin-bottom: 20px;
+  background-color: #333;
+  padding: 15px;
+  border-radius: 8px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.4);
+}
+
+/* Hover effect on text */
+.sales-terms-text:hover {
+  background-color: #444;
+  transition: background-color 0.3s ease-in-out;
+}
+
+/* Responsive Styles */
+
+/* Small screens (mobiles) */
+@media (max-width: 600px) {
+  .sales-hero-section {
+    height: 50vh;
+  }
+
+  .sales-hero-title {
+    font-size: 1.8rem;
+  }
+
+  .sales-hero-subtitle {
+    font-size: 0.9rem;
+  }
+
+  .sales-terms-section {
+    padding: 20px 10px;
+    max-width: 100%;
+  }
+
+  .sales-terms-title {
+    font-size: 1.6rem;
+  }
+
+  .sales-terms-text {
+    font-size: 0.95rem;
+    padding: 10px;
+  }
+}
+
+/* Medium screens (tablets) */
+@media (min-width: 601px) and (max-width: 1024px) {
+  .sales-hero-section {
+    height: 55vh;
+  }
+
+  .sales-hero-title {
+    font-size: 2.2rem;
+  }
+
+  .sales-hero-subtitle {
+    font-size: 1.1rem;
+  }
+
+  .sales-terms-section {
+    padding: 30px 15px;
+    max-width: 90%;
+  }
+
+  .sales-terms-title {
+    font-size: 1.9rem;
+  }
+
+  .sales-terms-text {
+    font-size: 1rem;
+  }
+}
+
+/* Large screens (desktops) */
+@media (min-width: 1025px) {
+  .sales-hero-section {
+    height: 60vh;
+  }
+
+  .sales-hero-title {
+    font-size: 2.5rem;
+  }
+
+  .sales-hero-subtitle {
+    font-size: 1.2rem;
+  }
+
+  .sales-terms-section {
+    padding: 40px 20px;
+    max-width: 1000px;
+  }
+
+  .sales-terms-title {
+    font-size: 2rem;
+  }
+
+  .sales-terms-text {
+    font-size: 1.1rem;
+  }
+}
