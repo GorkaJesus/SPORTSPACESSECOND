@@ -9,8 +9,8 @@ import sportImage from "../../assets/img/sportcanary.jpg";
 import Body from "../../components/body/Body";
 import { useTranslation } from "react-i18next";
 import SportList from "../../components/add-space/SportList";
-import SportVisitCounter from "../../components/sport-visit-counter/SportVisitCounter"; // Importamos el nuevo componente
-
+import SportVisitCounter from "../../components/sport-visit-counter/SportVisitCounter"; 
+import { useEffect, useState } from "react";
 
 function Home() {
   const { t } = useTranslation();
@@ -68,6 +68,7 @@ function Home() {
                 sport={t(item.sport)}
                 rating={item.rating}
                 image={item.image}
+                index={index}
               />
             ))}
           </div>
@@ -99,9 +100,7 @@ function Home() {
           <SportVisitCounter />
 
           <p className="section-description">
-            {t(
-              "Registra un nuevo espacio deportivo para compartir con la comunidad."
-            )}
+            {t("Registra un nuevo espacio deportivo para compartir con la comunidad.")}
           </p>
           <div className="sport-form-container">
             <SportList />

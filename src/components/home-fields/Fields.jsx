@@ -3,7 +3,7 @@ import "./Fields.css";
 
 function HomeFields(props) {
     return (
-        <div className="field-container">
+        <div className="field-container" id={`item-${props.index}`}>
             <img src={props.image} alt={props.myName} className="field-image" />
             <h2 className="field-title">{props.myName}</h2>
             <p className="field-location"><strong>Ubicación:</strong> {props.location}</p>

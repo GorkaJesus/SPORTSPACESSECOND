@@ -2,44 +2,48 @@
 <rss version="2.0">
 
   <channel>
-    <title>News in Sport Spaces</title>
-    <link>http://localhost:5175/</link>
-    <description>News that I find interesting</description>
+    <title>Sport Fields in Gran Canaria</title>
+    <link>https://sport-spaces-aa524.web.app/</link>
+    <description>Information about sport fields in Gran Canaria</description>
 
     <item>
-      <title>Nuevas innovaciones en inteligencia artificial revolucionan la industria</title>
-      <link>http://localhost:5175/#item-1</link>
-      <description>Investigadores han desarrollado una IA avanzada capaz de aprender tareas complejas de manera autónoma. Esta tecnología promete cambiar el futuro del trabajo, la educación y los servicios de salud.</description>
+      <title>Estadio de Gran Canaria</title>
+      <link>https://sport-spaces-aa524.web.app/#item-0</link> 
+      <description>Estadio principal de la ciudad, sede de la UD Las Palmas, con capacidad para 33,070 espectadores. Ideal para partidos de fútbol de alto nivel y eventos deportivos importantes.</description>
+      <location>Las Palmas de Gran Canaria, España</location>
+      <sport>Fútbol</sport>
+      <image>grancanaria</image>
+      <rating>4.8</rating>
     </item>
 
     <item>
-      <title>La selección de fútbol avanza a la final del campeonato mundial</title>
-      <link>http://localhost:5175/#item-2</link>
-      <description>En un emocionante partido, la selección nacional venció a su oponente en la tanda de penales y logró clasificarse a la final del campeonato mundial por primera vez en su historia.</description>
+      <title>Pabellón Insular Santiago Martín (Siete Palmas)</title>
+      <link>https://sport-spaces-aa524.web.app/#item-1</link> 
+      <description>Pabellón cubierto de baloncesto, sede de la Liga ACB. El lugar perfecto para disfrutar de partidos de baloncesto de alto nivel. Además, alberga eventos deportivos y conciertos.</description>
+      <location>Las Palmas de Gran Canaria, España</location>
+      <sport>Baloncesto</sport>
+      <image>sietepalmas</image>
+      <rating>4.7</rating>
     </item>
 
     <item>
-      <title>Descubrimiento en Marte sugiere la posible existencia de agua líquida</title>
-      <link>http://localhost:5175/#item-3</link>
-      <description>La NASA ha detectado nuevas señales que sugieren la presencia de agua líquida en Marte, lo que aumenta las expectativas sobre la posibilidad de encontrar vida en el planeta rojo.</description>
+      <title>Campo de Fútbol de Telde</title>
+      <link>https://sport-spaces-aa524.web.app/##item-2</link> 
+      <description>Un campo de fútbol accesible para el público, con césped sintético de alta calidad. El lugar perfecto para partidos informales, entrenamientos y ligas locales. Bien ubicado y de fácil acceso.</description>
+      <location>Telde, Gran Canaria, España</location>
+      <sport>Fútbol</sport>
+      <image>telde</image>
+      <rating>4.7</rating>
     </item>
 
     <item>
-      <title>Nueva ley de protección de datos entra en vigor en la Unión Europea</title>
-      <link>http://localhost:5175/#item-4</link>
-      <description>La nueva ley sobre protección de datos impone regulaciones más estrictas a las empresas tecnológicas en cuanto al manejo de la información personal de sus usuarios, con multas de hasta el 4% de sus ingresos globales.</description>
-    </item>
-
-    <item>
-      <title>Elon Musk anuncia fecha para el lanzamiento del cohete más potente jamás construido</title>
-      <link>http://localhost:5175/#item-5</link>
-      <description>SpaceX ha anunciado el lanzamiento del Starship, el cohete más grande y potente construido hasta la fecha, que pretende llevar a cabo misiones a la Luna y Marte en los próximos años.</description>
-    </item>
-
-    <item>
-      <title>El cambio climático podría afectar la producción de alimentos en las próximas décadas</title>
-      <link>http://localhost:5175/#item-6</link>
-      <description>Científicos advierten que los cambios en el clima, como el aumento de la temperatura y la alteración en los patrones de lluvia, podrían afectar gravemente la producción de alimentos, generando posibles crisis alimentarias globales.</description>
+      <title>Campo de Fútbol El Zardo</title>
+      <link>https://sport-spaces-aa524.web.app/##item-3</link> 
+      <description>Este complejo deportivo tiene varias canchas de fútbol con césped artificial, accesibles para la comunidad local. Es uno de los sitios preferidos para entrenamientos y partidos recreativos.</description>
+      <location>Las Palmas de Gran Canaria, España</location>
+      <sport>Fútbol</sport>
+      <image>zardo</image>
+      <rating>4.6</rating>
     </item>
 
   </channel>
