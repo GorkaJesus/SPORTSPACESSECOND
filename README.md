@@ -32,7 +32,18 @@ The project is available at the following link:
 
 This project was developed as part of my studies in **1º DAM** at **IES El Rincón**, applying modern technologies and responsive design principles.
 
-### 🛠️ Built With
+---
+
+## 🌍 Languages
+
+The project is available in the following languages:
+- **English**
+- **Spanish**
+- **Arabic**
+
+---
+
+## 🛠️ Built With
 
 - **HTML5** and **CSS3** for structure and styling.
 - **JavaScript (ES6+)** for functionality.
@@ -94,6 +105,13 @@ Below is a screenshot of the RSS feed reader displaying the feed items. Each ite
 
 <p align="center">
   <img src="src/assets/img/feedreaderreadme.jpg" alt="RSS Feed Reader Screenshot" width="600">
+</p>
+
+### Example of Clicking an Item:
+Below is an example showing how clicking an item in the RSS feed redirects to the corresponding article.
+
+<p align="center">
+  <img src="src/assets/img/feedreaderexample.jpg" alt="RSS Feed Item Example" width="600">
 </p>
 
 ---
