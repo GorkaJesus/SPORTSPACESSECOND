@@ -2,121 +2,128 @@
 <br />
 <p align="center">
   <a href="https://github.com/GorkaJesus/SPORTS-SPACES">
-    <img src="../myproject//src/assets/img/logo.jpg" alt="Logo" width="80" height="80">
+    <img src="../myproject//src/assets/img/logo.jpg" alt="Logo" width="120" height="120">
   </a>
 
-  <h3 align="center">Sports Spots in Gran Canaria</h3>
+  <h1 align="center">Sports Spaces in Gran Canaria</h1>
 
   <p align="center">
     Discover the best places to practice sports on the island of Gran Canaria.
     <br />
-    <a href="https://github.com/GorkaJesus/SPORTS-SPACES"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/GorkaJesus/SPORTS-SPACES"><strong>Explore the documentation »</strong></a>
     <br />
     <br />
-    <a href="https://www.figma.com/community/file/897597577856706975">Proyect inspired of Figma</a>
+    <a href="https://sport-spaces-aa524.web.app/" style="font-size: 1.2em; font-weight: bold;">🌐 Visit the deployed project</a>
     ·
-    <a href="https://github.com/GorkaJesus/SPORTS-SPACES/issues">Report Bug</a>
+    <a href="https://github.com/GorkaJesus/SPORTS-SPACES/issues">Report a bug</a>
     ·
-    <a href="https://github.com/GorkaJesus/SPORTS-SPACES/issues">Request Feature</a>
+    <a href="https://github.com/GorkaJesus/SPORTS-SPACES/issues">Request a feature</a>
   </p>
 </p>
 
-<!-- TABLE OF CONTENTS -->
-## Table of Contents
+---
 
-- [About the Project](#about-the-project)
-  - [Built With](#built-with)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Usage](#usage)
-- [Roadmap](#roadmap)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-- [Acknowledgements](#acknowledgements)
+## 🌟 Deployed Project
 
-<!-- ABOUT THE PROJECT -->
-## About The Project
+The project is available at the following link:  
+👉 **[SPORTSPACESSECOND on Firebase Hosting](https://sport-spaces-aa524.web.app/)** 👈
 
-This project, **Sports Spots in Gran Canaria**, was developed as a personal initiative to provide residents and tourists alike with a comprehensive guide to the best places for outdoor sports on the island of Gran Canaria. Whether you're into surfing, hiking, cycling, or any other activity, this webpage offers a detailed list of spots with helpful information such as location, tips, and nearby facilities.
+---
 
-As a student at IES El Rincón pursuing a degree in Computer Application Development (1º DAM), this project allowed me to develop my web development skills, using modern technologies and responsive design practices. 
+## 📖 About the Project
 
-### Built With
+**Sports Spaces in Gran Canaria** is a platform designed for residents and tourists looking for the best outdoor sports spots in Gran Canaria. From surfing to hiking, the website provides detailed information about each location, including maps, tips, and nearby facilities.
 
-The technologies used for this project include:
+This project was developed as part of my studies in **1º DAM** at **IES El Rincón**, applying modern technologies and responsive design principles.
 
-* HTML5
-* CSS3
-* JavaScript (ES6+)
-* [Leaflet](https://github.com/nfreear/leaflet.plugins/) - International Languages
-* [Leaflet](https://github.com/tcrurav/react-i18n/) - International Languages Component
-* [Bootstrap](https://getbootstrap.com/) - CSS Framework
-* [FontAwesome](https://fontawesome.com/) - Icons
+### 🛠️ Built With
 
-<!-- GETTING STARTED -->
-## Getting Started
+- **HTML5** and **CSS3** for structure and styling.
+- **JavaScript (ES6+)** for functionality.
+- **Leaflet.js** for interactive maps.
+- **Bootstrap** for responsive design.
+- **Firebase Hosting** for deployment.
 
-To get a local copy up and running follow these simple steps.
+---
+
+## 🚀 Getting Started
 
 ### Prerequisites
 
-This project runs on modern web browsers and does not require any backend dependencies. However, you may need the following to test it locally:
-
-- Node.js (optional for running a local server)
-- Git (for cloning the project)
+- A modern web browser (Google Chrome, Firefox, etc.).
+- Optional: Node.js and Git for local testing.
 
 ### Installation
 
-1. Clone the repository
-   ```sh
+1. Clone the repository:
+   ```bash
    git clone https://github.com/GorkaJesus/SPORTS-SPACES
+   ```
+2. Open the `index.html` file in your browser.
 
-<!-- USAGE -->
-## Usage
+---
 
-To use this project, simply open the `index.html` file in a modern web browser. You can also deploy it to a web server for public access.
+## 📋 Key Features
 
-<!-- ROADMAP -->
-## Roadmap
+- Interactive map with the best sports spots.
+- Detailed information about each location.
+- Responsive design for mobile devices.
+- Visual inspiration based on [Figma](https://www.figma.com/community/file/897597577856706975).
 
-- [ ] Add more sports spots
-- [ ] Implement user reviews and ratings
-- [ ] Add a search functionality
-- [ ] Improve mobile responsiveness
+---
 
-<!-- CONTRIBUTING -->
-## Contributing
+## 🛣️ Roadmap
 
-Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+- [x] Deploy on Firebase Hosting.
+- [ ] Add more sports spots.
+- [ ] Implement user reviews and ratings.
+- [ ] Improve accessibility and SEO.
 
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
+---
 
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+## 📰 RSS Feed Reader
 
-<!-- LICENSE -->
-## License
+To demonstrate the RSS feed functionality, you can use the following link in any feed reader:
 
-Distributed under the MIT License. See `LICENSE` for more information.
+👉 **[RSS Feed Link](https://sport-spaces-aa524.web.app/news.xml)** 👈
 
-<!-- CONTACT -->
-## Contact
+### How it works:
+1. Copy the RSS feed link: `https://sport-spaces-aa524.web.app/news.xml`.
+2. Paste it into your preferred RSS feed reader (e.g., Feedly, Inoreader, or any browser extension).
+3. The feed will display a list of news items. Each item links to a specific news article hosted on the app deployed in Firebase.
+   - Example URL: `https://sport-spaces-aa524.web.app/news/article-id`.
 
-Your Name - [@your_twitter](https://twitter.com/your_twitter) - your_email@example.com
+### Screenshot:
+Below is a screenshot of the RSS feed reader displaying the feed items. Each item links to the corresponding news article in the app.
 
-Project Link: [https://github.com/GorkaJesus/SPORTS-SPACES](https://github.com/GorkaJesus/SPORTS-SPACES)
+<p align="center">
+  <img src="src/assets/img/rss-reader-screenshot.png" alt="RSS Feed Reader Screenshot" width="600">
+</p>
 
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
+---
 
-* [Leaflet](https://leafletjs.com/)
-* [Bootstrap](https://getbootstrap.com/)
-* [FontAwesome](https://fontawesome.com/)
-* [Figma](https://www.figma.com/)
-* [GitHub Pages](https://pages.github.com/)
+## 🤝 Contributions
+
+Contributions are welcome! If you have ideas to improve this project, follow these steps:
+
+1. Fork the project.
+2. Create a branch for your feature (`git checkout -b feature/NewFeature`).
+3. Commit your changes (`git commit -m 'Add new feature'`).
+4. Push to your branch (`git push origin feature/NewFeature`).
+5. Open a Pull Request.
+
+---
+
+## 📞 Contact
+
+Project on GitHub: [SPORTS-SPACES](https://github.com/GorkaJesus/SPORTS-SPACES)
+
+---
+
+## 🏆 Acknowledgements
+
+- [Leaflet.js](https://leafletjs.com/) - Interactive maps.
+- [Bootstrap](https://getbootstrap.com/) - CSS framework.
+- [FontAwesome](https://fontawesome.com/) - Icons.
+- [Figma](https://www.figma.com/) - Design inspiration.
+- [Firebase Hosting](https://firebase.google.com/) - Web deployment.
