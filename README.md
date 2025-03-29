@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/GorkaJesus/SPORTS-SPACES">
-    <img src="../myproject//src/assets/img/logo.jpg" alt="Logo" width="120" height="120">
+    <img src="src/assets/img/logo.jpg" alt="Logo" width="120" height="120">
   </a>
 
   <h1 align="center">Sports Spaces in Gran Canaria</h1>
@@ -97,7 +97,7 @@ To demonstrate the RSS feed functionality, you can use the following link in any
 Below is a screenshot of the RSS feed reader displaying the feed items. Each item links to the corresponding news article in the app.
 
 <p align="center">
-  <img src="src/assets/img/rss-reader-screenshot.png" alt="RSS Feed Reader Screenshot" width="600">
+  <img src="src/assets/img/feedreaderreadme.jpg" alt="RSS Feed Reader Screenshot" width="600">
 </p>
 
 ---
