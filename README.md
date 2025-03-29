@@ -14,10 +14,6 @@
     <br />
     <br />
     <a href="https://sport-spaces-aa524.web.app/" style="font-size: 1.2em; font-weight: bold;">🌐 Visit the deployed project</a>
-    ·
-    <a href="https://github.com/GorkaJesus/SPORTS-SPACES/issues">Report a bug</a>
-    ·
-    <a href="https://github.com/GorkaJesus/SPORTS-SPACES/issues">Request a feature</a>
   </p>
 </p>
 
